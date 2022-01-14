@@ -1,5 +1,8 @@
 ### Oi! Eu sou o Rafael Custodio Silva 👋
 
+Criei este perfil para publicar meus estudos e meus projetos.
+Espero que gostem dos conteúdos 😉
+
 - 🚗 Atualmente eu trabalho como Motorista de Transporte de Passageiros por Aplicativos;
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020, porém, nunca atuei na área;
 - 🧑‍🎓 Estou estudante atualmente Desenvolvimento Front-End e gostaria de iniciar profissionalmente em breve;
