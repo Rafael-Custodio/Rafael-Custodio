@@ -5,7 +5,8 @@ Espero que gostem dos conteúdos 😉
 
 - 🚗 Atualmente eu trabalho como Motorista de Transporte de Passageiros por Aplicativos;
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020, porém, nunca atuei na área;
-- 🧑‍🎓 Estou estudante atualmente Desenvolvimento Front-End e gostaria de iniciar profissionalmente em breve;
+- 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3) e gostaria de iniciar profissionalmente em breve;
+- 🤷‍♂️ Tentei começar a programar pelo Back-End, especificamente por Java, mas acho um pouco avançado pra mim
 
 <div align="center">
   <a href="https://github.com/Rafael-Custodio">
