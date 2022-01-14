@@ -6,7 +6,7 @@ Espero que gostem dos conteúdos 😉
 - 🚗 Atualmente eu trabalho como Motorista de Transporte de Passageiros por Aplicativos;
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020, porém, nunca atuei na área;
 - 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3) e gostaria de iniciar profissionalmente em breve;
-- 🤷‍♂️ Tentei começar a programar pelo Back-End, especificamente por Java, mas acho um pouco avançado pra mim
+- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
 
 <div align="center">
   <a href="https://github.com/Rafael-Custodio">
@@ -28,4 +28,4 @@ Espero que gostem dos conteúdos 😉
    
   </div>
   
-  ![Snake animation](https://github.com/Rafael-Custodio/Rafael-Custodio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafael-custodio/rafael-custodio/blob/output/github-contribution-grid-snake.svg)
