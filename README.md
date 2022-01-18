@@ -6,7 +6,7 @@ Espero que gostem dos conteúdos 😉
 
 - 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2022);
 
-- 🏠 Fui Corretor de Imóveis por 10 anos (de 2009 a 2019);
+- 🏠 Fui Corretor de Imóveis por 10 anos (de 2010 a 2020);
 
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
 
