@@ -1,12 +1,20 @@
-### Oi! Eu sou o Rafael Custodio Silva 👋
+### Oi ! 
+### Eu sou o Rafael Custodio Silva 👋
 
-Criei este perfil para publicar meus estudos e meus projetos.
+Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
-- 🚗 Atualmente eu trabalho como Motorista de Transporte de Passageiros por Aplicativos;
-- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020, porém, nunca atuei na área;
-- 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3) e gostaria de iniciar profissionalmente em breve;
+- 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2022);
+
+- 🏠 Fui Corretor de Imóveis por 10 anos (de 2009 a 2019);
+
+- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
+
 - 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
+
+- 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3). 
+Terminei um curso em Dezembro de 2021 e comecei mais dois cursos do mesmo assunto agora em Janeiro de 2022 a fim de fixar algumas coisas que não compreendi muito bem no decorrer das aulas, reforçar o aprendizado e aprender mais a fundo outras adicionais (Flex, Grid, Etc.). 
+Assim que for avançando, vou iniciar alguns cursos mais específicos de JavaScript, Bootstrap, React, Angular, Node, Git e o que mais for necessário para conseguir retornar ao mercado de trabalho como Desenvolvedor de Software;
 
 <div align="center">
   <a href="https://github.com/Rafael-Custodio">
