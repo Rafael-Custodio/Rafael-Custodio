@@ -13,8 +13,13 @@ Espero que gostem dos conteúdos 😉
 - 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
 
 - 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3). 
-Terminei um curso em Dezembro de 2021 e comecei mais dois cursos do mesmo assunto agora em Janeiro de 2022 a fim de fixar algumas coisas que não compreendi muito bem no decorrer das aulas, reforçar o aprendizado e aprender mais a fundo outras adicionais (Flex, Grid, Etc.). 
+Terminei um curso do Senai em Dezembro de 2021 e comecei mais dois cursos (desta vez on line) do mesmo assunto agora em Janeiro de 2022 a fim de fixar algumas coisas que não compreendi muito bem no decorrer das aulas, reforçar o aprendizado e aprender mais a fundo outras adicionais (Flex, Grid, Etc.). 
 Assim que for avançando, vou iniciar alguns cursos mais específicos de JavaScript, Bootstrap, React, Angular, Node, Git e o que mais for necessário para conseguir retornar ao mercado de trabalho como Desenvolvedor de Software;
+
+- 👨‍🎓 Concluí em Fevereiro de 2022 um curso do Senai de Ui e Ux Design;
+
+- 👨‍🎓 Concluí também em Fevereiro de 2022 um curso em parceria do Senai e Sebrae de Criação de Lojas Virtuais Utilizando WordPress e Woocommerce;
+
 
 <div align="center">
   <a href="https://github.com/Rafael-Custodio">
