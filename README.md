@@ -4,7 +4,7 @@
 Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
-- 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2022);
+- 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2021);
 
 - 🏠 Fui Corretor de Imóveis por 10 anos (de 2010 a 2020);
 
@@ -12,9 +12,7 @@ Espero que gostem dos conteúdos 😉
 
 - 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
 
-- 🧑‍🎓 Estou estudando atualmente Desenvolvimento Front-End (por enquanto estou começando por HTML5 e CSS3). 
-Terminei um curso do Senai em Dezembro de 2021 e comecei mais dois cursos (desta vez on line) do mesmo assunto agora em Janeiro de 2022 a fim de fixar algumas coisas que não compreendi muito bem no decorrer das aulas, reforçar o aprendizado e aprender mais a fundo outras adicionais (Flex, Grid, Etc.). 
-Assim que for avançando, vou iniciar alguns cursos mais específicos de JavaScript, Bootstrap, React, Angular, Node, Git e o que mais for necessário para conseguir retornar ao mercado de trabalho como Desenvolvedor de Software;
+- 🧑‍🎓 Estudei um pouco Desenvolvimento Front-End (HTML5 e CSS3) e terminei um curso muito bom do Senai em Dezembro de 2021.
 
 - 👨‍🎓 Concluí em Fevereiro de 2022 um curso do Senai de Ui e Ux Design;
 
