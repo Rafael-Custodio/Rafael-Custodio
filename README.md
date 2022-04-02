@@ -6,9 +6,9 @@ Espero que gostem dos conteúdos 😉
 
 - 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2021);
 
-- 🏠 Fui Corretor de Imóveis por 10 anos (de 2010 a 2020);
+- 🏠 Fui Corretor de Imóveis por 11 anos (de 2010 a 2020);
 
-- 🧑‍💼 Trabalhei como Assistente Administrativo por 03 anos (de 2006 a 2009);
+- 🧑‍💼 Trabalhei como Assistente Administrativo por 04 anos (de 2006 a 2009);
 
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
 
