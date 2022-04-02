@@ -8,6 +8,8 @@ Espero que gostem dos conteúdos 😉
 
 - 🏠 Fui Corretor de Imóveis por 10 anos (de 2010 a 2020);
 
+- 🧑‍💼 Trabalhei como Assistente Administrativo por 03 anos (de 2006 a 2009);
+
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
 
 - 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
