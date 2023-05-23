@@ -12,13 +12,15 @@ Espero que gostem dos conteúdos 😉
 
 - 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
 
-- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas acho um pouco avançado pra mim neste momento;
+- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas achei um pouco avançado pra mim naquele momento;
 
 - 🧑‍🎓 Estudei um pouco Desenvolvimento Front-End (HTML5 e CSS3) e terminei um curso muito bom do Senai em Dezembro de 2021.
 
 - 👨‍🎓 Concluí em Fevereiro de 2022 um curso do Senai de Ui e Ux Design;
 
 - 👨‍🎓 Concluí também em Fevereiro de 2022 um curso em parceria do Senai e Sebrae de Criação de Lojas Virtuais Utilizando WordPress e Woocommerce;
+
+- 👨‍🎓 Atualmente estou fazendo 02 cursos no Senai (01 - Desenvolvimento de Aplicativos Android com Kotlin e 02 - Desenvolvimento FullStack); 
 
 
 <div align="center">
