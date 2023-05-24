@@ -5,7 +5,7 @@ Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
 
-- 👨‍🎓 Atualmente estou fazendo 02 cursos no Senai (01 - Desenvolvimento de Aplicativos Android com Kotlin e 02 - Desenvolvimento FullStack); 
+- 👨‍🎓 Atualmente estou fazendo 02 cursos no Senai (Curso 01: Desenvolvimento de Aplicativos Android com Kotlin e Curso 02: Desenvolvimento FullStack); 
 
 - 👨‍🎓 Concluí também em Fevereiro de 2022 um curso em parceria do Senai e Sebrae de Criação de Lojas Virtuais Utilizando WordPress e Woocommerce;
 
