@@ -1,8 +1,21 @@
 ### Oi ! 
-### Eu sou o Rafael Custodio Silva 👋
+### Sou o Rafael Custodio Silva 👋
 
 Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
+
+
+- 👨‍🎓 Atualmente estou fazendo 02 cursos no Senai (01 - Desenvolvimento de Aplicativos Android com Kotlin e 02 - Desenvolvimento FullStack); 
+
+- 👨‍🎓 Concluí também em Fevereiro de 2022 um curso em parceria do Senai e Sebrae de Criação de Lojas Virtuais Utilizando WordPress e Woocommerce;
+
+- 👨‍🎓 Concluí em Fevereiro de 2022 um curso do Senai de Ui e Ux Design;
+
+- 🧑‍🎓 Estudei um pouco Desenvolvimento Front-End (HTML5 e CSS3) e terminei um curso muito bom do Senai em Dezembro de 2021.
+
+- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
+
+- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados em 2019, mas achei um pouco avançado pra mim naquele momento;
 
 - 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2021);
 
@@ -10,17 +23,6 @@ Espero que gostem dos conteúdos 😉
 
 - 🧑‍💼 Trabalhei como Assistente Administrativo por 04 anos (de 2006 a 2009);
 
-- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
-
-- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados, mas achei um pouco avançado pra mim naquele momento;
-
-- 🧑‍🎓 Estudei um pouco Desenvolvimento Front-End (HTML5 e CSS3) e terminei um curso muito bom do Senai em Dezembro de 2021.
-
-- 👨‍🎓 Concluí em Fevereiro de 2022 um curso do Senai de Ui e Ux Design;
-
-- 👨‍🎓 Concluí também em Fevereiro de 2022 um curso em parceria do Senai e Sebrae de Criação de Lojas Virtuais Utilizando WordPress e Woocommerce;
-
-- 👨‍🎓 Atualmente estou fazendo 02 cursos no Senai (01 - Desenvolvimento de Aplicativos Android com Kotlin e 02 - Desenvolvimento FullStack); 
 
 <br>
 <div align="center">
