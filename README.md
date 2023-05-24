@@ -1,4 +1,4 @@
-### Oi ! 
+### Oi! 
 ### Sou o Rafael 👋
 
 Criei este perfil para publicar meus estudos, exercícios e projetos.
