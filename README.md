@@ -4,26 +4,18 @@
 Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
-- 👨‍🎓 Atualmente estou matriculado em um curso no Senai de Desenvolvimento FullStack;
-
+- 👨‍🎓 Atualmente estou matriculado em dois cursos no Senai (Curso 01: Desenvolvimento FullStack || Curso 02: Oracle Java Fundamentals);
 - 👨‍🎓 Concluí em Julho de 2023 no Senai um curso de Desenvolvimento de Aplicativos Android com Kotlin e Intellij;
-  
 - 👨‍🎓 Concluí em Novembro de 2022 no Senai um curso de Desenvolvimento de Aplicativos Android com Java e Android Studio;
+- 👨‍🎓 Concluí em Fevereiro de 2022 no Senai dois cursos (Curso 01: Ui e Ux Design || Curso 02: Criação de Lojas Virtuais Utilizando WordPress e Woocommerce);
+- 👨‍🎓 Concluí em Dezembro de 2021 no Senai um curso de Desenvolvimento Front-End (HTML5, CSS3 e JavaScript);
+- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi;
 
-- 👨‍🎓 Concluí em Fevereiro de 2022 no Senai dois cursos (Curso 01: Ui e Ux Design e Curso 02: Criação de Lojas Virtuais Utilizando WordPress e Woocommerce);
-
-- 🧑‍🎓 Concluí em Dezembro de 2021 no Senai um curso de Desenvolvimento Front-End (HTML5, CSS3 e JavaScript).
-
-- 👨‍🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, me formei em Dezembro de 2020 pela Universidade Anhembi Morumbi, porém, não consegui até o momento uma oportunidade de atuar na área;
-
-- 🤷‍♂️ Tentei aprender a programar começando pelo Back-End, especificamente por Java e Banco de Dados em 2019, mas achei um pouco avançado pra mim naquele momento e não consegui desenvolver bem;
-
-- 🚗 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2021);
-
-- 🏠 Fui Corretor de Imóveis por 11 anos (de 2010 a 2020);
-
+- 🧑‍💼 Trabalhei como Agente Censitario Supervisor no IBGE por 12 meses (de 2022 a 2023);
+- 🧑‍💼 Trabalhei como Gerente de E-commerce Júnior por 04 meses (de 04/2022 a 07/2022);
+- 🧑‍💼 Trabalhei como Motorista de Veículo de Transporte de Passageiros por Aplicativos por 06 anos (de 2016 a 2021);
+- 🧑‍💼 Trabalhei como Corretor de Imóveis por 11 anos (de 2010 a 2020);
 - 🧑‍💼 Trabalhei como Assistente Administrativo por 04 anos (de 2006 a 2009);
-
 
 <br>
 <div align="center">
