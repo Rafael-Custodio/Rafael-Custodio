@@ -4,7 +4,8 @@
 Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
-- 👨‍🎓 Atualmente estou matriculado em dois cursos no Senai (Curso 01: Desenvolvimento FullStack || Curso 02: Programação Oracle Java Fundamentals);
+- 👨‍🎓 Atualmente estou matriculado em dois cursos no Senai (Curso 01: Desenvolvimento FullStack && Curso 02: Programação Oracle Java Foundations);
+- 👨‍🎓 Concluí em Outubro de 2023 no Senai um curso de Programação Oracle Java Fundamentals;
 - 👨‍🎓 Concluí em Julho de 2023 no Senai um curso de Desenvolvimento de Aplicativos Android com Kotlin e Intellij;
 - 👨‍🎓 Concluí em Novembro de 2022 no Senai um curso de Desenvolvimento de Aplicativos Android com Java e Android Studio;
 - 👨‍🎓 Concluí em Fevereiro de 2022 no Senai dois cursos (Curso 01: Ui e Ux Design || Curso 02: Criação de Lojas Virtuais Utilizando WordPress e Woocommerce);
