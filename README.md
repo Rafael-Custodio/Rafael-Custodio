@@ -4,7 +4,7 @@
 Criei este perfil para publicar meus estudos, exercícios e projetos.
 Espero que gostem dos conteúdos 😉
 
-- 👨‍🎓 Ensino superior cursando em Engenharia de Computação, pela Univesp, início em Julho de 2025;
+- 👨‍🎓 Ensino superior em andamento em Engenharia de Computação, pela Univesp, início em Julho de 2025;
 - 👨‍🎓 Conluí em Dezembro de 2023 dois cursos no Senai (Curso 01: Desenvolvimento FullStack && Curso 02: Programação Oracle Java Foundations);
 - 👨‍🎓 Concluí em Outubro de 2023 no Senai um curso de Programação Oracle Java Fundamentals;
 - 👨‍🎓 Concluí em Julho de 2023 no Senai um curso de Desenvolvimento de Aplicativos Android com Kotlin e Intellij;
